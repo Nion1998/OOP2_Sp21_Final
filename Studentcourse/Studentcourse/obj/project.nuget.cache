@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LkN/On9mGtH0UWQ2WobZfGjOTFMWyRyLeV+StpTHViFi1kxF6rqVeNKdHex4uNFpuONB41Vnr13Z6OLWm65jUg==",
+  "dgSpecHash": "iKsZzu5XT7aUfyJJRintNcjDQ7M9owfVac7sD/NHinfxZd9n9lpTOqcxCc2pIh9DE9uGKsT8AbdCdEH4y3fkbQ==",
   "success": true,
-  "projectFilePath": "G:\\5th semester\\OOP2\\code\\Final\\Studentcourse\\Studentcourse\\Studentcourse.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\5th semester\\OOP2\\Final code\\Studentcourse\\Studentcourse\\Studentcourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
